@@ -124,9 +124,21 @@ musk-ai-chat/
 │   ├── index.html        # 主页面 | Main Page
 │   ├── style.css         # 样式表 | Stylesheet
 │   └── app.js           # 前端逻辑 | Frontend Logic
+├── assets/
+│   └── screenshots/     # 应用截图 | App Screenshots
 ├── .gitignore            # Git 忽略文件 | Git Ignore File
 └── README.md            # 本文件 | This File
 ```
+
+---
+
+## 📱 截图展示 | Screenshots
+
+### 对话界面 | Chat Interface
+
+![Musk AI Chat Demo](assets/screenshots/demo-chat-interface.png)
+
+*示例：用户询问睡眠时间，马斯克以幽默风格回答 | Example: User asks about sleep, Musk replies with humor*
 
 ---
 
