@@ -1,0 +1,14 @@
+# 马斯克AI对话App - Python依赖
+
+# Web框架
+flask==3.0.0
+flask-cors==4.0.0
+
+# HTTP客户端（用于调用百炼API）
+requests==2.31.0
+
+# 环境变量管理
+python-dotenv==1.0.0
+
+# 生产环境WSGI服务器（可选）
+# gunicorn==21.2.0
